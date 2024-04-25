@@ -1,0 +1,9 @@
+Table 1 is created successfully....
+1 TableId was deletedTable 1 is created successfully....
+Menu Displayed 
+food has updated Menu Displayed 
+
+1 table's new order is created successfully.Show orders for 1 table 
+
+1 table's new order is created successfully.Table 6 is created successfully....
+Show orders for 1 table 

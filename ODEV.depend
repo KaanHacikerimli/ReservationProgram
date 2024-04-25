@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1714041633 source:c:\cygwin64\home\odev\admin.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/stat.h>
+	<dirent.h>
+	<fcntl.h>
+	<stdbool.h>
+	"admin.h"
+
+1713884119 c:\cygwin64\home\odev\admin.h
+	"common.h"
+
+1713031987 c:\cygwin64\home\odev\common.h
+	<stdbool.h>
+
+1713798440 source:c:\cygwin64\home\odev\common.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/stat.h>
+	<dirent.h>
+	<fcntl.h>
+	<stdbool.h>
+	"common.h"
+
+1714041646 source:c:\cygwin64\home\odev\customer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/stat.h>
+	<dirent.h>
+	<fcntl.h>
+	<stdbool.h>
+	"customer.h"
+
+1713963768 c:\cygwin64\home\odev\customer.h
+	"common.h"
+
+1714041280 source:c:\cygwin64\home\odev\mainadmin.c
+	<stdio.h>
+	<stdlib.h>
+	"admin.h"
+
+1714041280 source:c:\cygwin64\home\odev\maincustomer.c
+	<stdlib.h>
+	"customer.h"
+
